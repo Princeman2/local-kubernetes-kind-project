@@ -2,7 +2,7 @@
 
 **Hands-on Kubernetes learning using Kind (Kubernetes IN Docker)**
 
-![Nginx Running](screenshots/1-nginx-welcome.png)
+![Nginx Running](nginx-welcome.png)
 
 ---
 
@@ -36,16 +36,16 @@ Set up a complete local Kubernetes environment using **Kind** and deployed a sam
 ## 📸 Project Screenshots
 
 ### 1. Nginx Welcome Page
-![Nginx Running](screenshots/1-nginx-welcome.png)
+![Nginx Running](nginx-welcome.png)
 
 ### 2. Kubernetes Nodes
-![kubectl get nodes](screenshots/2-kubectl-nodes.png)
+![kubectl get nodes](kubectl-nodes.png)
 
 ### 3. Pods and Services
-![kubectl get all](screenshots/3-kubectl-get-all.png)
+![kubectl get all](kubectl-get-all.png)
 
 ### 4. Kind Cluster Creation
-![Kind Create](screenshots/4-kind-create.png)
+![Kind Create](kind-create.png)
 
 ---
 
